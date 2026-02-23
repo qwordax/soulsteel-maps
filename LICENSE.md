@@ -6,4 +6,4 @@ copyright.
 # Files
 
 The files itself are distributed as Public Domain. Do whatever you want with
-them (except assets, of course).
+them (except the assets, of course).
