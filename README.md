@@ -5,6 +5,10 @@ Minecraft: Bedrock Edition featured server developed and running by Noxcrew.
 These maps can be used to label today's Empowered Monster location to open
 relics and solution of the animal puzzle to get some decent hoard.
 
+> [!NOTE]
+> If you have any suggestions about this repository, feel free to send me
+> a direct message on Discord.
+
 ## Formats
 
 The maps are available in `.png`, `.kra`, and `.psd` formats.
@@ -13,7 +17,3 @@ Check out the Releases section to download what you need.
 ## Available Locations
 
 * Old Kingdom
-
-> [!NOTE]
-> If you have any suggestions about this repository, feel free to send me
-> a direct message on Discord.
