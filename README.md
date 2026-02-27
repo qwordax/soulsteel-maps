@@ -13,3 +13,7 @@ Check out the Releases section to download what you need.
 ## Available Locations
 
 * Old Kingdom
+
+> [!NOTE]
+> If you have any suggestions about this repository, feel free to send me
+> a direct message on Discord.
