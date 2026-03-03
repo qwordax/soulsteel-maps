@@ -12,7 +12,7 @@ relics and solution of the animal puzzle to get some decent hoard.
 ## Formats
 
 The maps are available in `.png`, `.kra`, and `.psd` formats.
-Check out the Releases section to download what you need.
+Check out the Releases section to download the archives.
 
 ## Available Locations
 
